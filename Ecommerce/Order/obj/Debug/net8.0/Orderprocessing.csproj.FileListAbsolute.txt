@@ -1,0 +1,11 @@
+D:\dotnet\A_Practice\Ecommerce\Order\bin\Debug\net8.0\Orderprocessing.deps.json
+D:\dotnet\A_Practice\Ecommerce\Order\bin\Debug\net8.0\Orderprocessing.dll
+D:\dotnet\A_Practice\Ecommerce\Order\bin\Debug\net8.0\Orderprocessing.pdb
+D:\dotnet\A_Practice\Ecommerce\Order\obj\Debug\net8.0\Orderprocessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\A_Practice\Ecommerce\Order\obj\Debug\net8.0\Orderprocessing.AssemblyInfoInputs.cache
+D:\dotnet\A_Practice\Ecommerce\Order\obj\Debug\net8.0\Orderprocessing.AssemblyInfo.cs
+D:\dotnet\A_Practice\Ecommerce\Order\obj\Debug\net8.0\Orderprocessing.csproj.CoreCompileInputs.cache
+D:\dotnet\A_Practice\Ecommerce\Order\obj\Debug\net8.0\Orderprocessing.dll
+D:\dotnet\A_Practice\Ecommerce\Order\obj\Debug\net8.0\refint\Orderprocessing.dll
+D:\dotnet\A_Practice\Ecommerce\Order\obj\Debug\net8.0\Orderprocessing.pdb
+D:\dotnet\A_Practice\Ecommerce\Order\obj\Debug\net8.0\ref\Orderprocessing.dll

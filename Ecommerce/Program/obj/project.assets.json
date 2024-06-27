@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Catalogue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Catalogue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalogue.dll": {}
+        }
+      },
+      "Orderprocessing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Orderprocessing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Orderprocessing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Catalogue/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce/Catalogue.csproj",
+      "msbuildProject": "../Ecommerce/Catalogue.csproj"
+    },
+    "Orderprocessing/1.0.0": {
+      "type": "project",
+      "path": "../Order/Orderprocessing.csproj",
+      "msbuildProject": "../Order/Orderprocessing.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Catalogue >= 1.0.0",
+      "Orderprocessing >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\dotnet\\A_Practice\\Ecommerce\\Program\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "D:\\dotnet\\A_Practice\\Ecommerce\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\dotnet\\A_Practice\\Ecommerce\\Program\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\dotnet\\A_Practice\\Ecommerce\\Ecommerce\\Catalogue.csproj": {
+              "projectPath": "D:\\dotnet\\A_Practice\\Ecommerce\\Ecommerce\\Catalogue.csproj"
+            },
+            "D:\\dotnet\\A_Practice\\Ecommerce\\Order\\Orderprocessing.csproj": {
+              "projectPath": "D:\\dotnet\\A_Practice\\Ecommerce\\Order\\Orderprocessing.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
