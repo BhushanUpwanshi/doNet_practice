@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\A_Practice\\eom_pract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\repository\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\repository\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\repository\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\repository\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\views\\student\\getstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\views\\student\\getstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\views\\student\\sortstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\views\\student\\sortstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\views\\student\\searchbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\views\\student\\searchbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\views\\student\\searchbystatusres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\views\\student\\searchbystatusres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\views\\student\\find.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\views\\student\\find.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\views\\student\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\views\\student\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1D692E-B02D-4868-B034-B0DAA055DEC9}|Student_management\\Student_management.csproj|d:\\dotnet\\a_practice\\eom_pract\\student_management\\repositories\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1D692E-B02D-4868-B034-B0DAA055DEC9}|Student_management\\Student_management.csproj|solutionrelative:student_management\\repositories\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|d:\\dotnet\\a_practice\\eom_pract\\pract2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D4D23-2C8E-4549-BE3E-AAEFD60FC077}|Pract2\\Pract2.csproj|solutionrelative:pract2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchByStatusRes.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\SearchByStatusRes.cshtml",
+              "RelativeDocumentMoniker": "Pract2\\Views\\Student\\SearchByStatusRes.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\SearchByStatusRes.cshtml",
+              "RelativeToolTip": "Pract2\\Views\\Student\\SearchByStatusRes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T18:55:05.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchByStatus.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\SearchByStatus.cshtml",
+              "RelativeDocumentMoniker": "Pract2\\Views\\Student\\SearchByStatus.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\SearchByStatus.cshtml",
+              "RelativeToolTip": "Pract2\\Views\\Student\\SearchByStatus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T18:52:22.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Find.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\Find.cshtml",
+              "RelativeDocumentMoniker": "Pract2\\Views\\Student\\Find.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\Find.cshtml",
+              "RelativeToolTip": "Pract2\\Views\\Student\\Find.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T18:27:50.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\SortStudent.cshtml",
+              "RelativeDocumentMoniker": "Pract2\\Views\\Student\\SortStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\SortStudent.cshtml",
+              "RelativeToolTip": "Pract2\\Views\\Student\\SortStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T18:17:13.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetStudents.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\GetStudents.cshtml",
+              "RelativeDocumentMoniker": "Pract2\\Views\\Student\\GetStudents.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\GetStudents.cshtml",
+              "RelativeToolTip": "Pract2\\Views\\Student\\GetStudents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:01:21.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Program.cs",
+              "RelativeDocumentMoniker": "Pract2\\Program.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Program.cs",
+              "RelativeToolTip": "Pract2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:05:22.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\UpdateStudent.cshtml",
+              "RelativeDocumentMoniker": "Pract2\\Views\\Student\\UpdateStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\UpdateStudent.cshtml",
+              "RelativeToolTip": "Pract2\\Views\\Student\\UpdateStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:58:40.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\DeleteStudent.cshtml",
+              "RelativeDocumentMoniker": "Pract2\\Views\\Student\\DeleteStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\DeleteStudent.cshtml",
+              "RelativeToolTip": "Pract2\\Views\\Student\\DeleteStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:34:16.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Student_management\\Repositories\\StudentManager.cs",
+              "RelativeDocumentMoniker": "Student_management\\Repositories\\StudentManager.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Student_management\\Repositories\\StudentManager.cs",
+              "RelativeToolTip": "Student_management\\Repositories\\StudentManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:13:02.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Pract2\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "Pract2\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:00:25.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Pract2\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Pract2\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:59:32.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Repository\\StudentManager.cs",
+              "RelativeDocumentMoniker": "Pract2\\Repository\\StudentManager.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Repository\\StudentManager.cs",
+              "RelativeToolTip": "Pract2\\Repository\\StudentManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:55:45.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Repository\\StudentContext.cs",
+              "RelativeDocumentMoniker": "Pract2\\Repository\\StudentContext.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Repository\\StudentContext.cs",
+              "RelativeToolTip": "Pract2\\Repository\\StudentContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:41:51.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Pract2\\Models\\Student.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\eom_pract\\Pract2\\Models\\Student.cs",
+              "RelativeToolTip": "Pract2\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:31:26.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

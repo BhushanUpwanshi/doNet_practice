@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\A_Practice\\EomPract2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\repository\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\repository\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\views\\student\\sortstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\sortstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\repository\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\repository\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\views\\student\\getstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\getstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\views\\student\\findstudentres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\findstudentres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\views\\student\\findstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\findstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\views\\student\\removestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\removestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\views\\student\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|d:\\dotnet\\a_practice\\eompract2\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3431A235-D661-46C6-8F99-B9E09D61B195}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\SortStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\SortStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\SortStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\SortStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:09:37.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FindStudentRes.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\FindStudentRes.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\FindStudentRes.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\FindStudentRes.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\FindStudentRes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:01:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FindStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\FindStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\FindStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\FindStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\FindStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:58:41.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\UpdateStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\UpdateStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\UpdateStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\UpdateStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:33:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "removeStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\removeStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\removeStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\removeStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\removeStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:19:55.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetStudents.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\GetStudents.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\GetStudents.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\GetStudents.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\GetStudents.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T04:59:12.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:56:06.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T04:52:07.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwFYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:39:35.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Repository\\StudentManager.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Repository\\StudentManager.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Repository\\StudentManager.cs",
+              "RelativeToolTip": "StudentManagement\\Repository\\StudentManager.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:34:10.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Repository\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Repository\\StudentContext.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Repository\\StudentContext.cs",
+              "RelativeToolTip": "StudentManagement\\Repository\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:22:36.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "D:\\dotnet\\A_Practice\\EomPract2\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:48:56.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

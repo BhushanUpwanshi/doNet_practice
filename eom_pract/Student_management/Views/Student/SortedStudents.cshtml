@@ -1,0 +1,12 @@
+﻿
+<h3>Sorted students according to Status</h3>
+<ul>
+    @{
+        List<Student> stds = (List<Student>)ViewData["sorted"];
+        foreach(Student s in stds){
+            <li>@s.ToString()</li>
+        }
+    }
+</ul>
+
+

@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h3>Student details</h3>
+<ul>
+    @{
+        List<Student> stds = (List<Student>)ViewData["slist"];
+        foreach(Student s in stds)
+        {
+            <li>@s.Student_Id" "@s.Student_Name" "@s.Student_Email_Id" "@s.Mobile_number" "@s.Student_address" "@s.Admission_date" "@s.Fees" "@s.Status </li>
+        }
+    }
+</ul>
+<a href="/student/AddStudent">Add Student</a>
+<br />
+<a href="/student/UpdateStudent">Update Student</a><br />
+<a href="/Student/DeleteStudent">Delete Student</a>
+<br />
+<a href="/Student/SortStudent">Sort Students according to Status</a><br />
+<a href="/Student/SearchByStatus">Search students according to Status</a>
+<br />
